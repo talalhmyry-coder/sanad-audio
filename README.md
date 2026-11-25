@@ -1,2 +1,3 @@
 # sanad-audio
-Sanad podcast audio files
+
+مستودع ملفات البودكاست الصوتي لمنصة سَنَد الأكاديمية.
